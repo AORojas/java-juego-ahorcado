@@ -1,6 +1,6 @@
 **#REALIZAMOS UN JUEGO DE AHORCADO EN JAVA**
 
-hicimos un juego en Java en donde uno se debe ir colocando letras con el fin de ir completando la palabra con una cantidad de intentos, si es adivinada el jugador gana sino pierde.
+Hicimos un juego en Java en donde uno debe ir colocando letras con el fin de ir completando la palabra con una cantidad de intentos, si es adivinada el jugador gana sino pierde.
 
 **¿Que herramientas utilizamos?**
 
