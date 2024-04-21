@@ -1,7 +1,8 @@
 **#REALIZAMOS UN JUEGO DE AHORCADO EN JAVA**
+
 hicimos un juego en Java en donde uno se debe ir colocando letras con el fin de ir completando la palabra con una cantidad de intentos, si es adivinada el jugador gana sino pierde.
 
-**¿que herramientas utilizamos?**
+**¿Que herramientas utilizamos?**
 
  1. Clase Scanner
  2. Declaraciones y asignaciones
